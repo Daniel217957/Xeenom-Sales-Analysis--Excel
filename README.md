@@ -4,7 +4,7 @@
 The Xeenom Sales Performance Dashboard provides a comprehensive, at-a-glance view of the company’s commercial performance across time, geography, customer segments, and product categories. Designed for strategic monitoring and quick decision-making, the dashboard consolidates key sales metrics and trends into a single interactive interface.
 
 <img width="1432" height="760" alt="image" src="https://github.com/user-attachments/assets/2fa0a62d-0a0d-4d43-87e6-4d23919858af" />
-<p align="center"><i>The omplete dashboard, without any of the filters applied.</i></p>
+<p align="center"><i>The complete dashboard, without any of the filters applied.</i></p>
 
 ### Tools Used
 Only Excel!
