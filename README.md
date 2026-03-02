@@ -38,6 +38,9 @@ Identifies growth patterns across months and years.
 ##### Strategic Insight – 
 Reveals geographic concentration, customer behavior, and product performance to guide expansion and diversification decisions.
 
-In essence, the Xeenom Sales Dashboard transforms raw sales data into actionable business intelligence for leadership and operational teams.
+#### In essence:
+The Xeenom Sales Dashboard transforms raw sales data into actionable business intelligence for leadership and operational teams.
 
 View the interactive video: [CLICK HERE](https://drive.google.com/file/d/1zcfQWEYRsIVI0dE0lHHN0bAA4_Li7Ui5/view?usp=sharing)
+
+Special Mention: Daniel Nte Daniel [(YouTube Tutor)](https://youtu.be/Ywm0a7OB6uQ?si=1r-6Cr0eMvbhn-s2)
